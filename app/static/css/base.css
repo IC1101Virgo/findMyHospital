@@ -10,7 +10,7 @@
 }
 
 .nav-container{
-    border-bottom: 1px solid #1f385c ;
+    border-bottom: 1px solid #b6cec7 ;
 }
 
 .navbar{
@@ -20,7 +20,7 @@
 }
 
 .navbar-brand{
-    
+
     font-size: 20px;
     font-weight: 500;
     color: #1f385c !important;
@@ -243,4 +243,3 @@ h2{
 h3{
     font-weight: 600;
 }
-
