@@ -20,12 +20,12 @@
 }
 
 .details-gap{
-    border: 1px solid  #1f385c;
+    border: 1px solid  #db1230;
 }
 
 .bg-heading{
     text-align: center;
-    color: #1f385c;
+    color: #db1230;
 }
 
 .update-hg{
@@ -35,7 +35,7 @@
 
 .save-btn{
     padding: 5px 25px 5px 25px;
-    background-color: #1f385c;
+    background-color: #db1230;
     color: #fff;
     border-radius: 5px;
     border: none;
